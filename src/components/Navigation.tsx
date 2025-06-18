@@ -19,9 +19,7 @@ const Navigation = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <h1 className="text-2xl font-bold text-rose-600">
-                <span className="text-3xl">🌸</span> Belle Salon
-              </h1>
+              <h1 className="text-2xl font-bold text-rose-600">Belle Salon</h1>
             </div>
           </div>
 
